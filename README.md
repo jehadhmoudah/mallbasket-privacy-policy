@@ -40,5 +40,5 @@ We may update this Privacy Policy from time to time. We will notify you of signi
 ### 8. Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
 
-Email: jehadhmoudah@gmail.com
+Email: support@genericslab.com
 
