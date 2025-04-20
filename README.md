@@ -77,7 +77,8 @@
 ---
 
 
-Effective Date: March 19, 2025, Last Updated: April 20, 2025.
+**Effective Date: March 19, 2025**  
+**Last Updated: April 20, 2025**
 
 Welcome to MallBasket. Your privacy is important to us. This Privacy Policy outlines how we collect, use, and protect your personal information when you use our services.
 
