@@ -3,7 +3,7 @@
 # سياسة الخصوصية لـ MallBasket
 
 **تاريخ السريان: 19 مارس 2025**  
-**آخر تحديث: 6 أبريل 2025**
+**آخر تحديث: 20 أبريل 2025**
 
 مرحبًا بك في MallBasket. نحن نهتم بخصوصيتك، وتوضح سياسة الخصوصية هذه كيفية جمع معلوماتك الشخصية واستخدامها وحمايتها عند استخدامك لخدماتنا.
 
@@ -77,7 +77,7 @@
 ---
 
 
-Effective Date: March 19, 2025, Last Updated: April 6, 2025.
+Effective Date: March 19, 2025, Last Updated: April 20, 2025.
 
 Welcome to MallBasket. Your privacy is important to us. This Privacy Policy outlines how we collect, use, and protect your personal information when you use our services.
 
@@ -117,5 +117,5 @@ We may update this Privacy Policy from time to time. We will notify you of signi
 ### 8. Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
 
-Email: support@genericslab.com
+📧 **support@genericslab.com**
 
